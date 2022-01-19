@@ -12,7 +12,7 @@ page_sections:
   - link_url: "/"
     link_text: Home
   - link_url: "#"
-    link_text: Features
+    link_text: Services
   - link_url: "#"
     link_text: Pricing
   - link_url: "#"
