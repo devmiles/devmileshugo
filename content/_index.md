@@ -14,7 +14,7 @@ page_sections:
   - link_url: "#"
     link_text: Services
   - link_url: "#"
-    link_text: Pricing
+    link_text: Team
   - link_url: "#"
     link_text: Team
   cta:
