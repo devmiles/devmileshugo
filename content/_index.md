@@ -11,7 +11,7 @@ page_sections:
     link_text: ''
   - link_url: "/"
     link_text: Home
-  - link_url: "#"
+  - link_url: "welcome"
     link_text: Services
   - link_url: "#"
     link_text: Team
