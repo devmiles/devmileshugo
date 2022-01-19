@@ -1,6 +1,5 @@
 +++
 date = 2022-01-03T22:00:00Z
-draft = true
 layout = "blocks"
 title = "Welcome"
 [[page_sections]]
